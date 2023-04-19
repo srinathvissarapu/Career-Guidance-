@@ -1,0 +1,32 @@
+SNO,ML,DL,Image Processing,Python,Java,C,HTML,CSS,MYSQL,NLP,CGPA,ROLE
+1,yes,yes,yes,yes,no,no,yes,yes,yes,yes,2.94,Full stack Developer
+2,yes,yes,yes,yes,yes,no,no,no,no,no,2.63,Technical Support
+3,yes,yes,yes,yes,yes,yes,no,no,yes,no,2.45,Technical Support
+4,yes,yes,no,yes,yes,yes,no,no,yes,yes,3.71,Software Developer
+5,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,2.9,Software Developer
+6,yes,yes,yes,yes,yes,yes,yes,no,yes,no,2.92,Full stack Developer
+7,no,no,yes,yes,yes,yes,no,no,no,no,2.05,Technical Support
+8,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,3.77,Developer
+9,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,3.58,Full stack Developer
+10,yes,yes,no,yes,no,yes,yes,yes,yes,yes,2.85,Data analyst
+11,yes,yes,no,yes,no,yes,yes,yes,yes,yes,3.07,Tester
+12,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,3.66,UI/UX Designer
+13,yes,yes,no,yes,no,no,yes,yes,yes,yes,2.17,Technical Support
+14,yes,yes,no,yes,yes,yes,no,no,yes,no,2.83,Data analyst
+16,yes,yes,no,yes,no,yes,no,no,yes,no,2.18,Tester
+17,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,2.99,Front End Developer
+18,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,3.69,UI/UX Designer
+19,yes,no,no,yes,yes,yes,no,no,yes,no,1.38,Technical Support
+20,yes,yes,no,yes,no,yes,yes,yes,yes,yes,1.8,Tester
+21,yes,yes,no,yes,yes,yes,no,no,yes,no,1.7,software engineer
+22,yes,yes,no,yes,yes,yes,no,no,yes,no,3.01,Developer
+23,yes,yes,yes,yes,no,yes,no,no,yes,no,3.06,Tester
+24,yes,yes,yes,yes,yes,yes,no,no,yes,no,3.09,Manager
+25,no,yes,no,yes,yes,no,no,no,yes,no,2.5,software architect
+26,yes,yes,no,yes,no,yes,no,no,yes,no,2.76,Data analyst
+27,yes,yes,no,yes,no,yes,no,no,yes,no,1.9,software architect
+28,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,3.12,Manager
+29,yes,yes,yes,yes,yes,yes,no,no,yes,no,2.74,Developer
+30,yes,yes,no,yes,no,yes,no,no,yes,no,2.81,software engineer
+31,yes,yes,yes,yes,yes,yes,no,no,yes,no,2.4,UI/UX Designer
+32,yes,yes,yes,yes,yes,yes,no,no,yes,no,3.5,Team Lead

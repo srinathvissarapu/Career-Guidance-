@@ -1,0 +1,16 @@
+body {background-color:black;
+    font:times;
+    color:white;
+}
+h1{color:brown;
+    font:verdana;}
+.maindiv{
+
+    background-color:rgb(190, 185, 185);
+    color:black;
+    width:300px;
+    padding:20px;
+    border-radius: 15px;
+    text-align: center;
+}
+
